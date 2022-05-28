@@ -1,0 +1,2 @@
+Take 3 single digit numbers as input (no prompt needed), those numbers are the lengths of 3 sides of a triangle. print whether the triangle is equilateral (সমবাহু), Isoscaler(সমদ্বিবাহু) or Scaler (বিষমবাহু)
+No need to check whether the inputs can form a triangle or not.
